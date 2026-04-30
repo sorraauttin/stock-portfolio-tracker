@@ -1,0 +1,6 @@
+ticker,name,shares,buy_price,buy_date,currency
+TSM,Taiwan Semiconductor,10,160.00,2024-01-15,USD
+GOOG,Alphabet (Google),5,170.00,2024-03-01,USD
+DELTA.BK,Delta Electronics Thailand,100,85.00,2024-06-01,THB
+MINT.BK,Minor International,200,32.00,2024-09-01,THB
+VT,Vanguard Total World ETF,20,105.00,2024-01-15,USD
