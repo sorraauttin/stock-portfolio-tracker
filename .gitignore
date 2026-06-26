@@ -1,0 +1,19 @@
+# Python auto-generated files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter auto-saves
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Database files
+*.db
+*.sqlite
+
+# OS junk files
+.DS_Store
+Thumbs.db
